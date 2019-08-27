@@ -27,6 +27,10 @@ def reduce(array, start = array[0])
 
 
 
+
+
+
+
 reduce([1, 2, true, "razmatazz"]){|value, n| 
 puts "\nValue: #{value}"
 puts "N: #{n}"
